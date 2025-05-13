@@ -1,2 +1,3 @@
-# javascript-playground
-Experimental space for learning JavaScript fundamentals.
+# JavaScript Playground
+
+An experimental space for learning JavaScript fundamentals.
